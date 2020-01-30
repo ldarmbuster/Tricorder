@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 ###Tricorder
-###Purpose: To parse a log file and keep a running mean of every process that is stored in a pickle file and database.
+###Purpose: To parse a log file and keep a running mean of three process that are stored in a pickle file and database.
 
 
 import dataset
